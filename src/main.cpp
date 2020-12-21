@@ -47,7 +47,7 @@ int main()
 	g_pMdUserApi->RegisterSpi(pMdUserSpi);               // 注册事件类
 	g_pMdUserApi->RegisterFront(gMdFrontAddr);           // 设置行情前置地址
 	g_pMdUserApi->Init();                                // 连接运行
-	
+	//hzy
 
 
 	// 初始化交易线程
